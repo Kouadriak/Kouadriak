@@ -6,9 +6,5 @@
 ## Voici mon site portfolio : https://kouadriak.github.io/portfolio/
 
 
-[![illustration_cliquable_vers_portfolio](https://user-images.githubusercontent.com/102607628/165899561-527c4618-5cfe-4790-960d-301f223b2598.png)](https://kouadriak.github.io/portfolio/)
-
-
-
-
+[![illustration_cliquable_vers_portfolio](https://user-images.githubusercontent.com/102607628/169614968-6bf794a4-8c8a-45b1-b48e-4ebd30d28df7.png)](https://kouadriak.github.io/portfolio/)
 
